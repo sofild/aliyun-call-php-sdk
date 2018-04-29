@@ -1,5 +1,5 @@
 {
-    "name": "cooperjin/aliyun-dypls-php-sdk",
+    "name": "sofild/aliyun-call-php-sdk",
     "description": "Aliyun PLS SDK for PHP",
     "keywords": [ "aliyun", "PLS", "sdk" ],
     "type": "library",
